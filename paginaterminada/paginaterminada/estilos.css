@@ -1,0 +1,128 @@
+html{
+    background-color:#f7ebe2 ;
+}
+h1{
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(102, 79, 70);
+    float: right;
+    font-size: 70px;
+    text-align: center;
+    margin-right: 700px;
+    margin-bottom: 50px;
+    letter-spacing: 5px;
+}
+li {
+    font-size: 20px;
+    text-decoration: none;
+    border: 2px solid rgb(141, 108, 99);
+    border-radius: 50px;
+    display: inline-block;
+    padding: 10px 10px ;
+    color: rgb(255, 255, 255);
+    background-color: rgb(134, 87, 73);
+    font-family: "Radio Canada Big", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    line-height: 1.9;
+}
+    
+
+
+ul  {
+    margin-left: 700px;
+    
+}
+.lista a :hover{ scale: 1.5;
+    transition:  0.35s;
+    background-color: rgb(204, 174, 155);
+}
+.texto_principal p {
+    font-size: 25px;
+    text-align: center;
+    color: rgb(85, 66, 61);
+    font-family: "Radio Canada Big", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    margin-left: 500px;
+    margin-right: 500px;
+} 
+.imagen img  { 
+    margin-left: 500px;
+} 
+.sobre_nosotros_titulo h2{
+    color: rgb(83, 64, 59); 
+    font-size: 40px;
+    font-family: "Radio Canada Big", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    margin-left: 400px;
+} 
+.Sobrenosotrostexto p {
+   height: 500px;
+   font-size: 30px;
+   margin-right: 320px;
+   margin-left: 800px;
+   color: rgb(85, 66, 61);
+   font-family: "Radio Canada Big", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: weight;
+   font-style: normal;
+   text-align: justify;
+
+}
+.Imagen_libros img {
+    float: left;
+    margin-left: 400px;
+}
+.Video h3 {
+    color: rgb(83, 64, 59); 
+    font-size: 40px;
+    font-family: "Radio Canada Big", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    text-align: center;
+}
+.Video iframe {
+    margin-left: 700px;
+    width: 500px;
+    height: 300px;
+}
+.Ubicacion h4 {
+    color: rgb(83, 64, 59); 
+    font-size: 40px;
+    font-family: "Radio Canada Big", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    text-align: center;
+}
+.Ubicacion p {
+   color: rgb(85, 66, 61);
+   font-family: "Radio Canada Big", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: weight;
+   font-style: normal;
+   text-align: justify;
+   text-align: center;
+   font-size: 20px;
+}
+.Ubicacion iframe {
+    margin-left: 550px;
+    width: 800px;
+}
+.Derechos p {
+    color: rgb(85, 66, 61);
+   font-family: "Radio Canada Big", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: weight;
+   font-style: normal;
+   text-align: justify;
+   text-align: center;
+   font-size: 20px;
+}

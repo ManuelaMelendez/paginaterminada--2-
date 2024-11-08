@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 0;
+}
+
+
+.titulo_menu {
+    text-align: center;
+    background-color: #ffaf7a;
+    padding: 20px;
+    color: #333;
+}
+
+.titulo_menu h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+
+.Bebidas {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    
+}
+
+
+
+.Bebidas_Calientes,.Bebidas_frias {
+    width: 45%;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+}
+
+.Bebidas_Calientes ul, .Bebidas_frias ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.Bebidas_Calientes li:first-child, .Bebidas_frias li:first-child {
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+
+.Bebidas_Calientes ul li, .Bebidas_frias ul li {
+    font-size: 1em;
+    padding: 5px 0;
+    color: #555;
+    
+}
+
+
+.Bebidas_Calientes img, .Bebidas_frias img {
+    width: 80%;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+
+ul{
+list-style-type: none;
+}

@@ -1,0 +1,35 @@
+html{
+    background-color:#f7ebe2 ;
+
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(102, 79, 70);
+
+}
+.informacion p{
+    font-size: 30px;
+    border: 2px solid rgb(141, 108, 99);
+    background-color:#d3a570;
+    float: right;
+    font-size: 30px;
+}
+
+
+
+.imagenytitulo h1{
+    flex: 1;
+  }
+.imagenytitulo img{
+    max-width: 100%; 
+    margin-left: 21px; 
+    margin-right: 10000px;
+}
+.formularios{
+    margin-top: 20;
+}
